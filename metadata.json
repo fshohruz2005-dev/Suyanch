@@ -1,0 +1,6 @@
+{
+  "name": "Suyanch",
+  "description": "Mobile home services marketplace connecting families with verified caregivers, plumbers, electricians, handymen, cooks, and cleaners with Kalit trust verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

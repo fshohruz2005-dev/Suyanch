@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Outer circular rim -->
+        <path
+            android:strokeColor="#C79A45"
+            android:strokeWidth="2.5"
+            android:fillColor="#00000000"
+            android:pathData="M 54, 54 m -28, 0 a 28,28 0 1,0 56,0 a 28,28 0 1,0 -56,0" />
+        <!-- Inner ring -->
+        <path
+            android:strokeColor="#E5BE6E"
+            android:strokeWidth="1.2"
+            android:fillColor="#00000000"
+            android:pathData="M 54, 54 m -23, 0 a 23,23 0 1,0 46,0 a 23,23 0 1,0 -46,0" />
+        <!-- Inner subtle disc -->
+        <path
+            android:fillColor="#24493F"
+            android:pathData="M 54, 54 m -20, 0 a 20,20 0 1,0 40,0 a 20,20 0 1,0 -40,0" />
+        <!-- Key Head (Ring) -->
+        <path
+            android:strokeColor="#C79A45"
+            android:strokeWidth="3.2"
+            android:fillColor="#00000000"
+            android:pathData="M 45, 45 m -6.5, 0 a 6.5,6.5 0 1,0 13,0 a 6.5,6.5 0 1,0 -13,0" />
+        <!-- Key Shaft -->
+        <path
+            android:strokeColor="#C79A45"
+            android:strokeWidth="3.2"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 50, 48 L 65, 63" />
+        <!-- Key Teeth / Bits -->
+        <path
+            android:strokeColor="#C79A45"
+            android:strokeWidth="2.8"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000"
+            android:pathData="M 61, 59 L 64, 56 M 64, 62 L 67, 59" />
+        <!-- Star accent top -->
+        <path
+            android:fillColor="#C79A45"
+            android:pathData="M 54, 33 L 55, 36 L 58, 36 L 55.5, 38 L 56.5, 41 L 54, 39 L 51.5, 41 L 52.5, 38 L 50, 36 L 53, 36 Z" />
+    </group>
+</vector>
